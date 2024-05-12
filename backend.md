@@ -74,6 +74,7 @@
         * [INDEX](#index)
     * [MySQL](#mysql)
         * [RBAC](#rbac)
+    * [PostgreSQL(Optional)](#postgresqloptional)
     * [JDBC](#jdbc)
         * [Transaction](#transaction)
     * [MyBatis](#mybatis)
@@ -87,8 +88,12 @@
     * [Lettuce](#lettuce)
     * [Redisson](#redisson)
 * [Kafka](#kafka)
+    * [Kafka Java Client](#kafka-java-client)
 * [ElasticSearch](#elasticsearch)
 * [Spring & Spring Boot & Spring Cloud](#spring--spring-boot--spring-cloud)
+    * [Spring framework](#spring-framework)
+    * [Spring Boot](#spring-boot)
+    * [Spring Cloud](#spring-cloud)
 * [Docker](#docker)
     * [Image](#image)
     * [Container](#container)
@@ -259,6 +264,8 @@
 
 - create RBAC tables with SQL
 
+## PostgreSQL(Optional)
+
 ## JDBC
 
 ### Transaction
@@ -324,9 +331,19 @@
 
 # Kafka
 
+## Kafka Java Client
+
+- [Kafka Java Client](https://github.com/apache/kafka/tree/trunk/clients)
+
 # ElasticSearch
 
 # Spring & Spring Boot & Spring Cloud
+
+## Spring framework
+
+## Spring Boot
+
+## Spring Cloud
 
 # Docker
 
