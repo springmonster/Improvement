@@ -4,6 +4,7 @@
     * [IDE](#ide)
         * [IntelliJ IDEA](#intellij-idea)
             * [IDEA插件](#idea插件)
+        * [NotePad++](#notepad)
     * [比较工具](#比较工具)
     * [Terminal工具](#terminal工具)
     * [SSH工具](#ssh工具)
@@ -32,6 +33,10 @@
 - Grep Console
 - CodeGlance Pro
 - GenerateAllSetter
+
+### NotePad++
+
+- 熟练使用NotePad++
 
 ## 比较工具
 
