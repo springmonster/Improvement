@@ -2,6 +2,7 @@
 
 * [Basics](#basics)
     * [Java](#java)
+        * [Learning Resources](#learning-resources)
         * [Array](#array)
         * [List](#list)
             * [ArrayList](#arraylist)
@@ -41,6 +42,7 @@
             * [Predicate](#predicate)
         * [Optional](#optional)
         * [Stream](#stream)
+            * [Learning Resources](#learning-resources-1)
             * [Filter](#filter)
             * [Collectors](#collectors)
             * [Map](#map-1)
@@ -95,6 +97,7 @@
     * [Spring Boot](#spring-boot)
     * [Spring Cloud](#spring-cloud)
 * [Docker](#docker)
+    * [Learning Resources](#learning-resources-2)
     * [Image](#image)
     * [Container](#container)
     * [DockerFile](#dockerfile)
@@ -108,6 +111,11 @@
 # Basics
 
 ## Java
+
+### Learning Resources
+
+- [Java Full Course 1](https://www.bilibili.com/video/BV1Tb411d7xR/?spm_id_from=333.337.search-card.all.click&vd_source=13bf0832090021fb86148c16075ef1b5)
+- [Java Full Course 2](https://www.bilibili.com/video/BV1w24y1W7px/?spm_id_from=333.788.recommend_more_video.0&vd_source=13bf0832090021fb86148c16075ef1b5)
 
 ### Array
 
@@ -190,6 +198,10 @@
 ### Optional
 
 ### Stream
+
+#### Learning Resources
+
+- [Stream Video](https://www.bilibili.com/video/BV1nL411X7EH/?spm_id_from=333.337.search-card.all.click&vd_source=13bf0832090021fb86148c16075ef1b5)
 
 #### Filter
 
@@ -343,9 +355,15 @@
 
 ## Spring Boot
 
+- [Amigos Code Spring Boot](https://www.bilibili.com/video/BV1v44y1z7aF/?spm_id_from=333.337.search-card.all.click&vd_source=13bf0832090021fb86148c16075ef1b5)
+
 ## Spring Cloud
 
 # Docker
+
+## Learning Resources
+
+- [Udemy Docker](https://www.bilibili.com/video/BV1hS4y1m7Ma/?spm_id_from=333.337.search-card.all.click&vd_source=13bf0832090021fb86148c16075ef1b5)
 
 ## Image
 
