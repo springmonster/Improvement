@@ -114,12 +114,12 @@
 
 ### Learning Resources
 
-- [Java Full Course 1](https://www.bilibili.com/video/BV1Tb411d7xR/?spm_id_from=333.337.search-card.all.click&vd_source=13bf0832090021fb86148c16075ef1b5)
-- [Java Full Course 2](https://www.bilibili.com/video/BV1w24y1W7px/?spm_id_from=333.788.recommend_more_video.0&vd_source=13bf0832090021fb86148c16075ef1b5)
+- [Video Java Full Course 1](https://www.bilibili.com/video/BV1Tb411d7xR/?spm_id_from=333.337.search-card.all.click&vd_source=13bf0832090021fb86148c16075ef1b5)
+- [Video Java Full Course 2](https://www.bilibili.com/video/BV1w24y1W7px/?spm_id_from=333.788.recommend_more_video.0&vd_source=13bf0832090021fb86148c16075ef1b5)
 
 ### Array
 
-- [合并两个有序数组](https://leetcode.cn/problems/merge-sorted-array/description/)
+- [LeetCode 合并两个有序数组](https://leetcode.cn/problems/merge-sorted-array/description/)
 
 ### List
 
@@ -137,7 +137,7 @@
 
 ### Map
 
-- [两数之和](https://leetcode.cn/problems/two-sum/description/)
+- [LeetCode 两数之和](https://leetcode.cn/problems/two-sum/description/)
 
 #### HashMap
 
@@ -201,7 +201,7 @@
 
 #### Learning Resources
 
-- [Stream Video](https://www.bilibili.com/video/BV1nL411X7EH/?spm_id_from=333.337.search-card.all.click&vd_source=13bf0832090021fb86148c16075ef1b5)
+- [Video Java Stream](https://www.bilibili.com/video/BV1nL411X7EH/?spm_id_from=333.337.search-card.all.click&vd_source=13bf0832090021fb86148c16075ef1b5)
 
 #### Filter
 
@@ -355,7 +355,7 @@
 
 ## Spring Boot
 
-- [Amigos Code Spring Boot](https://www.bilibili.com/video/BV1v44y1z7aF/?spm_id_from=333.337.search-card.all.click&vd_source=13bf0832090021fb86148c16075ef1b5)
+- [Video Amigos Code Spring Boot](https://www.bilibili.com/video/BV1v44y1z7aF/?spm_id_from=333.337.search-card.all.click&vd_source=13bf0832090021fb86148c16075ef1b5)
 
 ## Spring Cloud
 
@@ -363,7 +363,7 @@
 
 ## Learning Resources
 
-- [Udemy Docker](https://www.bilibili.com/video/BV1hS4y1m7Ma/?spm_id_from=333.337.search-card.all.click&vd_source=13bf0832090021fb86148c16075ef1b5)
+- [Video Udemy Docker](https://www.bilibili.com/video/BV1hS4y1m7Ma/?spm_id_from=333.337.search-card.all.click&vd_source=13bf0832090021fb86148c16075ef1b5)
 
 ## Image
 
