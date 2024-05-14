@@ -40,8 +40,9 @@
       * [FunctionalInterface](#functionalinterface)
       * [Predicate](#predicate)
     * [Optional](#optional)
-    * [Stream](#stream)
       * [Learning Resources](#learning-resources-1)
+    * [Stream](#stream)
+      * [Learning Resources](#learning-resources-2)
       * [Filter](#filter)
       * [Collectors](#collectors)
       * [Map](#map-1)
@@ -53,6 +54,7 @@
     * [Build](#build)
   * [Gradle(Optional)](#gradleoptional)
   * [Git](#git)
+    * [Learning Resources](#learning-resources-3)
     * [Git Flow](#git-flow)
     * [init](#init)
     * [clone](#clone)
@@ -62,6 +64,7 @@
     * [merge](#merge)
     * [rebase](#rebase)
 * [Database](#database)
+  * [Learning Resources](#learning-resources-4)
   * [SQL](#sql)
     * [DDL](#ddl)
     * [SELECT](#select)
@@ -105,7 +108,7 @@
   * [Spring Boot](#spring-boot)
   * [Spring Cloud](#spring-cloud)
 * [Docker](#docker)
-  * [Learning Resources](#learning-resources-2)
+  * [Learning Resources](#learning-resources-5)
   * [Image](#image)
   * [Container](#container)
   * [DockerFile](#dockerfile)
@@ -204,6 +207,10 @@
 
 ### Optional
 
+#### Learning Resources
+
+- [Java Optional](https://www.bilibili.com/video/BV1dc411X7nW/?spm_id_from=333.337.search-card.all.click&vd_source=13bf0832090021fb86148c16075ef1b5)
+
 ### Stream
 
 #### Learning Resources
@@ -232,6 +239,10 @@
 
 ## Git
 
+### Learning Resources
+
+- [Git & Github](https://www.bilibili.com/video/BV1JP4y1K774/?spm_id_from=333.337.search-card.all.click&vd_source=13bf0832090021fb86148c16075ef1b5)
+
 ### Git Flow
 
 ### init
@@ -249,6 +260,10 @@
 ### rebase
 
 # Database
+
+## Learning Resources
+
+- [Udemy SQL](https://www.bilibili.com/video/BV1o4411U77L/?spm_id_from=333.337.search-card.all.click&vd_source=13bf0832090021fb86148c16075ef1b5)
 
 ## SQL
 
