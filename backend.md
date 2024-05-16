@@ -462,4 +462,15 @@
 
 ## Grafana(Optional)
 
+# DevOps(Optional)
 
+## CI(Optional)
+
+- Jenkins
+- SonarQube
+
+## CD(Optional)
+
+- Nexus
+- JFrog
+- Rundeck
