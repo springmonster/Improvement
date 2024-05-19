@@ -5,3 +5,4 @@
 - [Tools](./tools.md)
 - [Books](./book.md)
 - [3rd Framework](./3rd.md)
+- [Management](./management.md)
