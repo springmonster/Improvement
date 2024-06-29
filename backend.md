@@ -53,18 +53,6 @@
     * [DependencyManagement](#dependencymanagement)
     * [Build](#build)
   * [Gradle(Optional)](#gradleoptional)
-* [Docker](#docker)
-  * [Learning Resources](#learning-resources-3)
-  * [Image](#image)
-  * [Container](#container)
-  * [DockerFile](#dockerfile)
-* [Kubernetes(Optional)](#kubernetesoptional)
-* [Monitoring and Alerting(Optional)](#monitoring-and-alertingoptional)
-  * [Prometheus(Optional)](#prometheusoptional)
-  * [Grafana(Optional)](#grafanaoptional)
-* [DevOps(Optional)](#devopsoptional)
-  * [CI(Optional)](#cioptional)
-  * [CD(Optional)](#cdoptional)
 <!-- TOC -->
 
 # Basics
