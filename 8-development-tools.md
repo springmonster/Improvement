@@ -1,20 +1,3 @@
-<!-- TOC -->
-
-* [工具](#工具)
-    * [IDE](#ide)
-        * [IntelliJ IDEA](#intellij-idea)
-            * [IDEA插件](#idea插件)
-        * [NotePad++](#notepad)
-    * [比较工具](#比较工具)
-    * [Terminal工具](#terminal工具)
-    * [SSH工具](#ssh工具)
-    * [网络请求工具](#网络请求工具)
-    * [抓包工具](#抓包工具)
-    * [数据库工具](#数据库工具)
-    * [Markdown工具](#markdown工具)
-
-<!-- TOC -->
-
 # 工具
 
 ## IDE

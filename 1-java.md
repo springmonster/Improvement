@@ -1,61 +1,3 @@
-<!-- TOC -->
-
-* [Java](#java)
-    * [Learning Resources](#learning-resources)
-    * [Array](#array)
-    * [List](#list)
-        * [ArrayList](#arraylist)
-        * [LinkedList](#linkedlist)
-    * [Set](#set)
-        * [HashSet](#hashset)
-        * [TreeSet](#treeset)
-        * [LinkedHashSet](#linkedhashset)
-    * [Map](#map)
-        * [HashMap](#hashmap)
-        * [TreeMap](#treemap)
-        * [LinkedHashMap](#linkedhashmap)
-    * [Queue](#queue)
-        * [ArrayDeque](#arraydeque)
-        * [LinkedList](#linkedlist-1)
-    * [IO](#io)
-        * [Reader](#reader)
-        * [Writer](#writer)
-    * [Multi Threading](#multi-threading)
-        * [Thread](#thread)
-        * [Runnable](#runnable)
-        * [Callable](#callable)
-        * [Future](#future)
-        * [Executor](#executor)
-        * [ThreadPool](#threadpool)
-        * [Lock](#lock)
-        * [ReentrantLock](#reentrantlock)
-        * [ReadWriteLock](#readwritelock)
-        * [StampedLock](#stampedlock)
-        * [Condition](#condition)
-        * [Semaphore](#semaphore)
-        * [CountDownLatch](#countdownlatch)
-        * [CyclicBarrier](#cyclicbarrier)
-        * [ForkJoinPool](#forkjoinpool)
-    * [Lambda](#lambda)
-        * [FunctionalInterface](#functionalinterface)
-        * [Predicate](#predicate)
-        * [Optional](#optional)
-            * [Learning Resources](#learning-resources-1)
-        * [Stream](#stream)
-            * [Learning Resources](#learning-resources-2)
-            * [Filter](#filter)
-            * [Collectors](#collectors)
-            * [Map](#map-1)
-            * [FlatMap](#flatmap)
-    * [Maven](#maven)
-        * [Properties](#properties)
-        * [Dependency](#dependency)
-        * [DependencyManagement](#dependencymanagement)
-        * [Build](#build)
-    * [Gradle(Optional)](#gradleoptional)
-
-<!-- TOC -->
-
 # Java
 
 ## Learning Resources
@@ -172,3 +114,13 @@
 ### Build
 
 ## Gradle(Optional)
+
+## Java三方框架
+
+### Apache
+
+### Jackson
+
+### Guice
+
+### Hutool

@@ -3,6 +3,7 @@
 ## Learning Resources
 
 - [Udemy SQL](https://www.bilibili.com/video/BV1o4411U77L/?spm_id_from=333.337.search-card.all.click&vd_source=13bf0832090021fb86148c16075ef1b5)
+- [LeetCode SQL 50](https://leetcode.com/studyplan/top-sql-50/)
 
 ## SQL DATABASE
 
