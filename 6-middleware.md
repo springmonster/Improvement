@@ -1,6 +1,8 @@
-# Redis
+# MiddleWare
 
-## Basic Data Types
+## Redis
+
+### Basic Data Types
 
 - String
 - List
@@ -8,7 +10,7 @@
 - Hash
 - ZSet
 
-## Basic Commands
+### Basic Commands
 
 - `keys`
 - `exists`
@@ -25,26 +27,26 @@
 - `lpop`
 - `rpop`
 
-## Persistence
+### Persistence
 
 - RDB
 - AOF
 
-## Replication
+### Replication
 
 - Master-Slave
 - Sentinel
 - Cluster
 
-## Jedis
+### Jedis(Java)
 
-## Lettuce
+### Lettuce(Java)
 
-## Redisson
+### Redisson(Java)
 
-# Kafka
+## Kafka
 
-## Basic Concepts
+### Basic Concepts
 
 - Producer
 - Consumer
@@ -56,16 +58,16 @@
 - Zookeeper
 - Replication
 
-## Kafka Java Client
+### Kafka Java Client
 
 - [Kafka Java Client](https://github.com/apache/kafka/tree/trunk/clients)
 
-## EFAK
-
-# ElasticSearch
+### EFAK
 
 ## ElasticSearch
 
-## Kibana(Optional)
+### ElasticSearch
 
-## Logstash(Optional)
+### Kibana(Optional)
+
+### Logstash(Optional)

@@ -1,31 +1,33 @@
-# Docker
+# Devops
 
-## Learning Resources
+## Docker
+
+### Learning Resources
 
 - [Video Udemy Docker](https://www.bilibili.com/video/BV1hS4y1m7Ma/?spm_id_from=333.337.search-card.all.click&vd_source=13bf0832090021fb86148c16075ef1b5)
 
-## Image
+### Image
 
-## Container
+### Container
 
-## DockerFile
+### DockerFile
 
-# Kubernetes(Optional)
+## Kubernetes(Optional)
 
-# Monitoring and Alerting(Optional)
+## Monitoring and Alerting(Optional)
 
-## Prometheus(Optional)
+### Prometheus(Optional)
 
-## Grafana(Optional)
+### Grafana(Optional)
 
-# DevOps(Optional)
+## DevOps(Optional)
 
-## CI(Optional)
+### CI(Optional)
 
 - Jenkins
 - SonarQube
 
-## CD(Optional)
+### CD(Optional)
 
 - Nexus
 - JFrog

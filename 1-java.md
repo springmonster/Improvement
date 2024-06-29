@@ -1,5 +1,9 @@
 # Java
 
+## Roadmap
+
+- [roadmap java](https://roadmap.sh/java)
+
 ## Learning Resources
 
 - [Video Java Full Course 1](https://www.bilibili.com/video/BV1Tb411d7xR/?spm_id_from=333.337.search-card.all.click&vd_source=13bf0832090021fb86148c16075ef1b5)
@@ -35,6 +39,8 @@
 
 ## Queue
 
+- [有效的括号](https://leetcode.cn/problems/valid-parentheses/)
+
 ### ArrayDeque
 
 ### LinkedList
@@ -46,6 +52,8 @@
 ### Writer
 
 ## Multi Threading
+
+- [按序打印](https://leetcode.cn/problems/print-in-order/description/)
 
 ### Thread
 
@@ -93,7 +101,7 @@
 
 #### Learning Resources
 
-- [Video Java Stream](https://www.bilibili.com/video/BV1nL411X7EH/?spm_id_from=333.337.search-card.all.click&vd_source=13bf0832090021fb86148c16075ef1b5)
+- [Java Stream](https://www.bilibili.com/video/BV1nL411X7EH/?spm_id_from=333.337.search-card.all.click&vd_source=13bf0832090021fb86148c16075ef1b5)
 
 #### Filter
 
@@ -119,8 +127,12 @@
 
 ### Apache
 
+-[Apache](https://httpd.apache.org/)
+
 ### Jackson
 
-### Guice
+-[Jackson](https://github.com/FasterXML/jackson)
 
-### Hutool
+### Guice(Optional)
+
+### Hutool(Optional)
